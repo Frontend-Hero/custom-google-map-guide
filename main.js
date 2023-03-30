@@ -2,7 +2,7 @@ function initMap()
 {
 
 	/** 
-	* Create array of locations
+	* Create array of locations 
 	*/
 	const markers = [
 		{
